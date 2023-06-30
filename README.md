@@ -1,10 +1,6 @@
-For a personal project, I have created a radio communication encryption and decryption program for the Microbit Microcontroller. This is the Caesar Cipher Algorithm to encrypt and decrypt the messages.
+![image](https://github.com/pranayrishi/RadioCommunicationEncryption/assets/74742835/78f06c0a-b553-4b2e-abde-286741c75efd)For a personal project, I have created a radio communication encryption and decryption program for the Microbit Microcontroller. This is the Caesar Cipher Algorithm to encrypt and decrypt the messages.
 Here is a video demo of how it works:
 https://www.youtube.com/watch?v=bIt3S9f6cc0&t=2s
-
-![Uploading image.png…]()
-
-
 
 > Open this page at [https://pranayrishi.github.io/radiocommunicationencryption/](https://pranayrishi.github.io/radiocommunicationencryption/)
 
